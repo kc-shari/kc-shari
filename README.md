@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kc-shari
-- 👀 I’m interested in DevOps and automation through IaC. 
-- 🌱 We're currently migrating on-prem server apps to the AWS cloud.
-- 💞️ I enjoy life and work, and I'm excited to be in a CloudOps role at Collins Aerospace.
+- 👀 I’m paasionate about DevOps and automation and implement them wherever possible. 
+- 🌱 We're automatin our deployments  using GitLab and sharing DevOps practices across the corporation.
+- 💞️ I've enjoyed each step in my career and am currently a DevOps Architect at Collins Aerospace.
 - 📫 My email address is shari.anderson@gmail.com so feel free to contact me about CloudOps or DevOps.
 
 <!---
